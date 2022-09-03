@@ -44,7 +44,7 @@ function handleOperator(operator) {
 
 function performCalculation() {
   if (calculator.firstNumber == null || calculator.operator == null){
-    alert('masukan dulu angkan baru teken tombol operatornya gblk!')
+    alert('masukan dulu angkanya baru teken tombol operatornya gblk!')
     return;
   }
 
